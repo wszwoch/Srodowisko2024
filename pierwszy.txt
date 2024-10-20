@@ -2,3 +2,4 @@ Hello world
     PID TTY          TIME CMD
    2785 pts/0    00:00:00 bash
   26936 pts/0    00:00:00 ps
+edycja 20.10.2024 14:12
